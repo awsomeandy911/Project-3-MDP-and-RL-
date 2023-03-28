@@ -1,0 +1,12 @@
+Please Enter your team's full names and your answers to QS questions here!
+Group 36: Andy Le & Victor Pham
+
+QS1.1: explain how you implemented computeActionFromValues(state)
+
+QS1.2: explain how you implemented computeQValueFromValues(state, action)
+
+QS2.1: what is your choice for discount, noise, and living reward? Explain the reason you picked these values to achieve a desired policy. (i.e., you may give us a counterexample) 
+
+QS3.1: explain how you implemented your Q-learning agent
+
+QS4.1: Does that behavior of the agent match what you expect? Explain. 
